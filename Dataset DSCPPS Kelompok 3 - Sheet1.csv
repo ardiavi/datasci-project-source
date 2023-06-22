@@ -1,0 +1,121 @@
+ID,Nama,Lebar Jalan (m),Kondisi Jalan,Kualitas Pencahayaan Malam,Jarak Lampu Lalu Lintas (m),Jarak Kantor Kepolisian (m),Guna Lahan Utama,Keamanan
+1,Ds. Cisurupan,8,Retak,Baik,175,431,Perdagangan dan Jasa,Aman
+2,Ds. Pasir Wangi,15,Retak,Baik,1859,946,Perdagangan dan Jasa,Tidak Aman
+3,Ds. Pasir Jati,6,Distorsi,Kurang,398,29,Permukiman,Aman
+4,Komplek Perumahan Cilengkrang,7,Cacat (Lubang),Cukup,244,684,Industri,Aman
+5,Jl. Negla sari,9,Pengausan,Cukup,1845,109,Perkantoran,Aman
+6,Jl. Cilangkarang,10,Retak,Cukup,2391,991,Industri,Tidak Aman
+7,Ds. Pasi Biru,9,Cacat (Lubang),Baik,2277,735,Permukiman,Tidak Aman
+8,Kmplek Perumahan Bumi Wijaya Kusuma Permai,5,Pengausan,Kurang,2286,337,Perdagangan dan Jasa,Tidak Aman
+9,Jl. Mamisi,6,Distorsi,Cukup,846,240,Industri,Aman
+10,Komplek Perumahan Cipadung Permai,6,Retak,Cukup,149,703,Perkantoran,Tidak Aman
+11,Desa Cipadung,12,Pengausan,Kurang,1439,750,Industri,Tidak Aman
+12,Jl. Embah Jaksa,9,Cacat (Lubang),Cukup,2285,114,Perdagangan dan Jasa,Tidak Aman
+13,Jl. Cigagak,11,Retak,Baik,557,719,Permukiman,Aman
+14,Jl. Pangaritan,6,Pengausan,Cukup,934,402,Industri,Tidak Aman
+15,Jl. Cipadung,12,Distorsi,Kurang,463,156,Perkantoran,Aman
+16,Komplek Perumahan Cipadung Indah,13,Cacat (Lubang),Kurang,2116,731,Permukiman,Aman
+17,Jl. Cipadung Indah,15,Retak,Cukup,957,476,Industri,Tidak Aman
+18,Jl. Panyileukan,6,Pengausan,Kurang,1253,778,Perkantoran,Aman
+19,Komplek Perumahan Bumi Panyileukan,15,Distorsi,Baik,2159,36,Perdagangan dan Jasa,Tidak Aman
+20,Jl. Panglawungan,8,Cacat (Lubang),Cukup,1602,898,Industri,Tidak Aman
+21,Ds. Mekar Mulya,13,Pengausan,Kurang,751,663,Perkantoran,Aman
+22,Ds. Cisaranten Kidul,8,Retak,Baik,230,748,Perdagangan dan Jasa,Tidak Aman
+23,Jl. Gedebage,8,Distorsi,Cukup,1250,469,Permukiman,Aman
+24,Ds. Derwati,13,Cacat (Lubang),Kurang,2093,215,Perkantoran,Tidak Aman
+25,Jl. Cipamokolan,9,Retak,Kurang,462,114,Industri,Aman
+26,Jl. Silih Asih,9,Pengausan,Cukup,944,216,Permukiman,Tidak Aman
+27,Jl. Bumi Asih,13,Distorsi,Kurang,2298,87,Perkantoran,Aman
+28,Komplek Perumahan Sentosa Asih Jaya,8,Cacat (Lubang),Baik,953,510,Industri,Tidak Aman
+29,Komplek Perumahan Riung Bandung,7,Retak,Kurang,171,821,Perdagangan dan Jasa,Tidak Aman
+30,Ds. Cigending,6,Pengausan,Cukup,108,862,Permukiman,Aman
+31,Jl. Kaum Kulon,12,Distorsi,Kurang,1434,732,Industri,Tidak Aman
+32,Jl. Kaum,10,Cacat (Lubang),Cukup,747,430,Perdagangan dan Jasa,Aman
+33,Jl. Cigending,11,Retak,Cukup,2217,20,Perkantoran,Aman
+34,Jl. Nagrog,7,Pengausan,Kurang,2126,729,Industri,Tidak Aman
+35,Jl. Raya Ujung Berung,6,Distorsi,Baik,657,997,Perkantoran,Tidak Aman
+36,Jl. Sumber sari,6,Cacat (Lubang),Kurang,1631,161,Permukiman,Aman
+37,Komplek Perumahan Panghegar,13,Retak,Cukup,390,191,Industri,Tidak Aman
+38,Ds. Mekar Mulya,9,Pengausan,Baik,2393,180,Perkantoran,Aman
+39,Ds. Ujung Berung,9,Distorsi,Kurang,720,843,Perdagangan dan Jasa,Tidak Aman
+40,JL. Rumah Sakit,8,Cacat (Lubang),Cukup,434,996,Industri,Aman
+41,Komple Perumahan Ujung Berung,10,Retak,Cukup,2388,157,Perkantoran,Tidak Aman
+42,Komplek Perumahan Sukur Baru,5,Pengausan,Kurang,2392,455,Industri,Aman
+43,Jl. Sukur Baru,5,Distorsi,Baik,307,537,Perdagangan dan Jasa,Tidak Aman
+44,Jl. Golf,10,Cacat (Lubang),Kurang,306,83,Permukiman,Aman
+45,Jl. Cijambe,14,Retak,Cukup,671,842,Industri,Tidak Aman
+46,Ds. Pasir Endah,7,Pengausan,Cukup,166,559,Perkantoran,Aman
+47,Komplek Perumahan Taruna Parahyangan,14,Distorsi,Kurang,1576,702,Perdagangan dan Jasa,Tidak Aman
+48,Ds. Sindang Jaya,8,Cacat (Lubang),Baik,178,691,Permukiman,Tidak Aman
+49,Jl. Suka Asih,5,Retak,Cukup,2174,882,Industri,Aman
+50,Ds. Cisaranten Bina Harapan,9,Pengausan,Kurang,1933,685,Perkantoran,Tidak Aman
+51,Jl. Cisaranten,9,Distorsi,Kurang,2387,482,Perdagangan dan Jasa,Tidak Aman
+52,Perumnas Islamic Centre,5,Cacat (Lubang),Baik,1777,772,Industri,Aman
+53,Ds. karang Pamulang,8,Retak,Kurang,279,927,Perkantoran,Aman
+54,Jl. Karang Pamulang,10,Pengausan,Cukup,546,331,Permukiman,Tidak Aman
+55,Jl. Sindang Laya,10,Distorsi,Cukup,2207,778,Industri,Tidak Aman
+56,Jl. Pasir Putih,15,Cacat (Lubang),Baik,967,796,Perkantoran,Aman
+57,Jl. Simpang Sari,10,Retak,Kurang,111,657,Industri,Tidak Aman
+58,Jl. Pacuan kuda,12,Pengausan,Cukup,957,509,Perdagangan dan Jasa,Tidak Aman
+59,Jl. Saharjo Sari Endah,6,Distorsi,Kurang,926,371,Permukiman,Aman
+60,Jl. Rusadi SH,13,Cacat (Lubang),Cukup,744,663,Industri,Aman
+61,Jl. Pesantren,7,Retak,Kurang,679,610,Perkantoran,Tidak Aman
+62,Jl. Mekar Sari,14,Pengausan,Baik,934,189,Industri,Aman
+63,Ds. Suka Miskin,8,Distorsi,Cukup,105,288,Perdagangan dan Jasa,Tidak Aman
+64,Jl. Arcamanik Indah,9,Cacat (Lubang),Kurang,787,845,Permukiman,Aman
+65,Jl. Golf Timur,8,Retak,Baik,1859,335,Industri,Tidak Aman
+66,Jl. Golf Timur I-IX,11,Pengausan,Kurang,836,843,Perdagangan dan Jasa,Aman
+67,Jl. Silat,9,Distorsi,Kurang,1638,251,Perkantoran,Tidak Aman
+68,Jl. Taekwondo,10,Cacat (Lubang),Cukup,1894,504,Industri,Aman
+69,Jl. Kempo,6,Retak,Cukup,1601,903,Perkantoran,Tidak Aman
+70,Jl. Gulat,6,Pengausan,Kurang,2273,518,Permukiman,Aman
+71,Jl. Karate,11,Distorsi,Baik,1453,583,Industri,Tidak Aman
+72,Jl. Aceh,10,Cacat (Lubang),Kurang,527,986,Perdagangan dan Jasa,Aman
+73,Jl. Sumbawa,6,Retak,Cukup,2082,381,Perkantoran,Tidak Aman
+74,Jl. Ambon,8,Pengausan,Kurang,1425,514,Permukiman,Aman
+75,Jl. Sumatera,11,Distorsi,Cukup,673,539,Industri,Tidak Aman
+76,Jl. Jawa,8,Cacat (Lubang),Baik,709,871,Perdagangan dan Jasa,Tidak Aman
+77,Jl. Jakarta,10,Retak,Kurang,1259,802,Industri,Aman
+78,Jl. Jend.A.Yani,8,Pengausan,Cukup,2159,658,Perkantoran,Aman
+79,Jl. Antapani,9,Distorsi,Kurang,843,932,Permukiman,Tidak Aman
+80,Jl. Asia Afrika,5,Cacat (Lubang),Cukup,2393,141,Perdagangan dan Jasa,Aman
+81,Jl. H. Hasan,6,Retak,Baik,844,803,Industri,Tidak Aman
+82,Jl. Bangus Rangin,12,Pengausan,Kurang,1787,861,Perkantoran,Tidak Aman
+83,Jl. Wirayuda,14,Distorsi,Cukup,2387,587,Industri,Aman
+84,Jl. Titiran,15,Cacat (Lubang),Baik,747,489,Perdagangan dan Jasa,Aman
+85,Jl. Tekukur,6,Retak,Kurang,1602,384,Permukiman,Tidak Aman
+86,Jl. Japati,7,Pengausan,Cukup,720,475,Industri,Tidak Aman
+87,Jl. Puter,8,Distorsi,Cukup,1621,516,Perdagangan dan Jasa,Aman
+88,Jl. Jalak,15,Cacat (Lubang),Kurang,1859,62,Perkantoran,Tidak Aman
+89,Jl. Dederuk,5,Retak,Baik,2207,429,Industri,Aman
+90,Jl. Puyuh,9,Pengausan,Kurang,244,522,Permukiman,Aman
+91,Jl. Gagak,8,Distorsi,Cukup,2082,186,Perdagangan dan Jasa,Tidak Aman
+92,Jl. Gereja,11,Cacat (Lubang),Baik,230,569,Industri,Tidak Aman
+93,Sentot Ali Syahbana,8,Retak,Cukup,751,542,Perkantoran,Aman
+94,Rajawali,15,Pengausan,Kurang,2186,471,Permukiman,Aman
+95,Bangga Dempul,9,Distorsi,Kurang,1576,985,Industri,Tidak Aman
+96,Jl. Trunojoyo,5,Cacat (Lubang),Cukup,185,633,Perdagangan dan Jasa,Tidak Aman
+97,Jl. Tirtayasa,8,Retak,Kurang,178,792,Perkantoran,Aman
+98,Jl. Wira angun-angun,6,Pengausan,Baik,2217,411,Industri,Aman
+99,Jl. Bahurekso,8,Distorsi,Cukup,1904,733,Permukiman,Tidak Aman
+100,Sultan Agung,5,Cacat (Lubang),Kurang,398,944,Perdagangan dan Jasa,Aman
+101,Jl. Harian Bangga,6,Retak,Kurang,105,467,Industri,Tidak Aman
+102,Jl. Gajah Lumantung,7,Pengausan,Cukup,1672,108,Perkantoran,Tidak Aman
+103,Sawung Galing,8,Distorsi,Kurang,2392,369,Permukiman,Aman
+104,Jl. Rangga Malela,9,Cacat (Lubang),Baik,1242,883,Industri,Tidak Aman
+105,Cipayung,8,Retak,Kurang,2391,184,Perdagangan dan Jasa,Aman
+106,Komplek Perumnas Sarijadi,5,Pengausan,Cukup,2408,744,Perkantoran,Aman
+107,Jl. Sari Asih,12,Distorsi,Cukup,2126,345,Industri,Tidak Aman
+108,Jl. Sarijadi,9,Cacat (Lubang),Kurang,2468,278,Permukiman,Aman
+109,Jl. Sari Endah,15,Retak,Baik,306,410,Perdagangan dan Jasa,Tidak Aman
+110,Jl. Geger Hegar,10,Pengausan,Kurang,1415,230,Industri,Tidak Aman
+111,Jl Geger Sari,8,Cacat (Lubang),Cukup,836,144,Perkantoran,Aman
+112,Jl. Geger Sari I-VI,9,Cacat (Lubang),Cukup,1076,746,Permukiman,Aman
+113,Jl. Geger Subur,5,Cacat (Lubang),Kurang,1787,641,Industri,Tidak Aman
+114,Jl. Tonggoh,12,Retak,Baik,149,184,Perdagangan dan Jasa,Tidak Aman
+115,Jl. Lamdeuh,8,Distorsi,Cukup,679,824,Industri,Aman
+116,Jl. Geger Kalong Hilir,8,Cacat (Lubang),Kurang,957,353,Perkantoran,Tidak Aman
+117,Jl. Geger Kalong,8,Distorsi,Baik,1563,174,Permukiman,Aman
+118,Jl. sersan sodik,14,Pengausan,Kurang,1945,681,Perdagangan dan Jasa,Aman
+119,Geger Kalong Tengah,5,Cacat (Lubang),Cukup,1439,460,Industri,Tidak Aman
+120,Jl. Setia Budi,12,Cacat (Lubang),Kurang,2298,865,Perkantoran,Tidak Aman
